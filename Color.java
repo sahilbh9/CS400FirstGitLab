@@ -1,4 +1,7 @@
-/*
+/* Name: Sahil Bhawtankar
+ * Email: bhawtankar@wisc.edu
+ * CS account username: bhawtankar
+ *
  *	Color class
  */
 public class Color{

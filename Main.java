@@ -1,4 +1,7 @@
-/*
+/* Name: Sahil Bhawtankar
+ * Email: bhawtankar@wisc.edu
+ * CS account username: bhawtankar
+ *
  * Test the use of the Color method
  */
 import java.util.*;
